@@ -1,11 +1,11 @@
 === bbPress Members Only ===
 Contributors: tomas zhu, kprovance
-Author URI: https://bbp.design/
-Donate link: https://bbp.design/
+Author URI: https://github.com/svl-studios/svl-bbp-members-only
+Donate link: https://github.com/svl-studios/svl-bbp-members-only
 Tags:bbpress,wordpress,bbpress members only,community,restricts,membership,user,access,privacy,private,private community,protection,pretected site,member
-Requires at least: 3.0
+Requires at least: 5.0
 Tested up to: 5.7
-Stable tag: 1.4.9
+Stable tag: 1.5.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -48,6 +48,7 @@ Also any question is welcome
 = Version 1.5.0 =
 * Got rid of all the 'buy the pro version' crap.
 * Replace stripos with typesafe string comparison.  Works better.
+* Code meets WordPress Coding Standards.
 
 = Version 1.4.7 =
 Our readme.txt is too large, please check change log at:
